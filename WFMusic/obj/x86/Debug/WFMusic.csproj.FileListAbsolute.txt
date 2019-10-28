@@ -1,0 +1,15 @@
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\bin\x86\Debug\WFMusic.exe.config
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\bin\x86\Debug\WFMusic.exe
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\bin\x86\Debug\WFMusic.pdb
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\bin\x86\Debug\Bass.Net.dll
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\bin\x86\Debug\CSkin.dll
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\bin\x86\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\bin\x86\Debug\CSkin.xml
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\obj\x86\Debug\WFMusic.MainForm.resources
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\obj\x86\Debug\WFMusic.PlayList.resources
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\obj\x86\Debug\WFMusic.PlayLrc.resources
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\obj\x86\Debug\WFMusic.PlaySpectrum.resources
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\obj\x86\Debug\WFMusic.Properties.Resources.resources
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\obj\x86\Debug\WFMusic.csproj.GenerateResource.Cache
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\obj\x86\Debug\WFMusic.exe
+C:\Users\xy\Documents\workspace\c#\WFMusic\WFMusic\obj\x86\Debug\WFMusic.pdb
